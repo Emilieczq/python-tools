@@ -5,7 +5,7 @@ Run `pip3 install PyPDF2` to install PyPDF2 in your python3 library.
 
 ## Examples
 
-### Extract the file - read.py
+### Extract PDF file - read.py
 1. Change the input filename in line 6, the default is 'meetingminutes.pdf'.
 2. Change the output filename in line 7, the default is 'text.txt'
 3. Run `python3 read.py`.
